@@ -1,5 +1,6 @@
 # Spring Boot integration with Swagger 2 UI
 
 `http://localhost:8088/swagger-ui.html` - Shows the list of Endpoints in the current RESTful webservice.
-<br/>
+<br>
+## Examplo do resultado final
 <img src="https://github.com/isaccanedo/spring-boot-swagger/blob/master/src/main/resources/swagger.jpg">
