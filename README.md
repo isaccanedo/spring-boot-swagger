@@ -3,5 +3,5 @@
 `http://localhost:8088/swagger-ui.html` - Shows the list of Endpoints in the current RESTful webservice.
 <br>
 ## Exemplo do resultado final
-`Documentação do Swagger`
+`Documentação do Swagger`<br>
 <img src="https://github.com/isaccanedo/spring-boot-swagger/blob/master/src/main/resources/swagger.jpg">
