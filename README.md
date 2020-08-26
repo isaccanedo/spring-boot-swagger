@@ -5,4 +5,4 @@
 ## Exemplo do resultado final
 
 <br>
-<img src="https://github.com/isaccanedo/spring-boot-swagger/tree/master/src/main/resources/img/swagger2.jpg">
+<img src="https://github.com/isaccanedo/spring-boot-swagger/blob/master/src/main/resources/img/swagger2.jpg">
